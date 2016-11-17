@@ -1,10 +1,14 @@
 Getting started : Just a few steps before you start tinkering with your smartphone and Arduino or Hi-MCU:
 
+
 Step-1. Download hIOTron DIY mobile APP
+
 
 Step-2 Download hIOTron Device Library
 
+
 Step-3 Integrate & Build your first project
+
 
 Integrate - Once you have download the App & device library, then create an account in the app, once account created then copy your user id and paste it into device library code and then upload the code in the selected device.
 
