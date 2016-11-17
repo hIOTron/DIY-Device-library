@@ -1,3 +1,5 @@
+Getting started : Just a few steps before you start tinkering with your smartphone and Arduino or Hi-MCU:
+
 Step-1. Download hIOTron DIY mobile APP
 
 Step-2 Download hIOTron Device Library
